@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 @font-face { font-family: CloserText; src: url('/public/vendor/Closer_Text-Dfonts.org/CloserText-Regular.otf'); }
- @font-face { font-family: CloserText; font-weight: medium; src: url('/public/vendor/Closer_Text-Dfonts.org/CloserText-Medium.otf');}
- @font-face { font-family: CloserText; font-weight: bold; src: url('/public/vendor/Closer_Text-Dfonts.org/CloserText-Bold.otf');}
- @font-face { font-family: CloserText; font-weight: light; src: url('/public/vendor/Closer_Text-Dfonts.org/CloserText-Light.otf');}
+@font-face { font-family: CloserText; font-weight: medium; src: url('/public/vendor/Closer_Text-Dfonts.org/CloserText-Medium.otf');}
+@font-face { font-family: CloserText; font-weight: bold; src: url('/public/vendor/Closer_Text-Dfonts.org/CloserText-Bold.otf');}
+@font-face { font-family: CloserText; font-weight: light; src: url('/public/vendor/Closer_Text-Dfonts.org/CloserText-Light.otf');}
 
  .nav:hover {
     border-image: linear-gradient(90deg, #495280 2.07%, #515EA6 44.01%, #6A7BD9 97.93%) 1;

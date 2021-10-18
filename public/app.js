@@ -25,16 +25,16 @@ $(document).ready(function(){
       margin: 20,
       responsive:{
         0: {
-          items: 1.3
+          items: 1.2
         },
         640: {
-          items: 2.3
+          items: 2.2
         },
         768: {
-          items: 3.3
+          items: 3.2
         },
         1280: {
-          items: 4.3
+          items: 4.2
         }
     }
   })

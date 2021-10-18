@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       maxWidth: {
         '1464': '1464px',
+        '1700': '1700px',
       },
       fontFamily: {
         'CloserText': ['CloserText', 'sans-serif'],
@@ -24,7 +25,7 @@ module.exports = {
         }
       },
       boxShadow: {
-        'custom': '0px 0px 7px 3px rgba(0,0,0,0.4)',
+        'custom': '0px 0px 7px 5px rgba(0,0,0,0.2)',
         'custom-wider': '0px 0px 20px 10px rgba(0,0,0,0.15)',
       },
       borderRadius: {
