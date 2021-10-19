@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       maxWidth: {
         '1432': '1432px',
+        '1310': '1310px',
         '1700': '1700px',
       },
       fontFamily: {
